@@ -14,13 +14,14 @@
     "force": "truffle exec scripts/force.js --network rinkeby",
     "guess": "truffle exec scripts/guess.js --network rinkeby",
     "king": "truffle exec scripts/king.js --network rinkeby",
+    "reentrance": "truffle exec scripts/reentrance.js --network rinkeby",
     "store": "truffle exec scripts/store.js --network rinkeby",
     "vault": "truffle exec scripts/vault.js --network rinkeby"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "@truffle/hdwallet-provider": "^2.0.12",
     "dotenv": "^16.0.1"
   }
