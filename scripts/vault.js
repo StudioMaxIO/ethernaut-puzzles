@@ -1,5 +1,3 @@
-//0x3EbFBB071283CfdD760A827316d627BeABBAcefc
-
 const Vault = artifacts.require("Vault");
 
 module.exports = async (callback) => {

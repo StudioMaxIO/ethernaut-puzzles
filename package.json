@@ -10,10 +10,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "call": "truffle exec scripts/call.js --network rinkeby",
     "delegatecall": "truffle exec scripts/delegatecall.js --network rinkeby",
+    "elevator": "truffle exec scripts/elevator.js --network rinkeby",
     "flip": "truffle exec scripts/flip.js --network rinkeby",
     "force": "truffle exec scripts/force.js --network rinkeby",
+    "gatekeeperOne": "truffle exect scripts/gatekeeper1.js --network rinkeby",
     "guess": "truffle exec scripts/guess.js --network rinkeby",
     "king": "truffle exec scripts/king.js --network rinkeby",
+    "privacy": "truffle exec scripts/privacy.js --network rinkeby",
     "reentrance": "truffle exec scripts/reentrance.js --network rinkeby",
     "store": "truffle exec scripts/store.js --network rinkeby",
     "vault": "truffle exec scripts/vault.js --network rinkeby"
