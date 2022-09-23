@@ -16,7 +16,9 @@
     "gatekeeperOne": "truffle exect scripts/gatekeeper1.js --network rinkeby",
     "guess": "truffle exec scripts/guess.js --network rinkeby",
     "king": "truffle exec scripts/king.js --network rinkeby",
+    "naughtCoin" : "truffle exec scripts/naughtCoin.js --network rinkeby",
     "privacy": "truffle exec scripts/privacy.js --network rinkeby",
+    "recovery": "truffle exec scripts/recovery.js --network rinkeby",
     "reentrance": "truffle exec scripts/reentrance.js --network rinkeby",
     "store": "truffle exec scripts/store.js --network rinkeby",
     "vault": "truffle exec scripts/vault.js --network rinkeby"
